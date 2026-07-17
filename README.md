@@ -138,7 +138,7 @@ Department of Computing Technologies, SRM Institute of Science and Technology.
 
 ## 👩‍💻 Author
 
-**Srija Paul Chowdhury**
+**Srija Paul Chowdhury**   **Rushikesh Jagtap**
 
 B.Tech Computer Science and Engineering
 SRM Institute of Science and Technology
